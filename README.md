@@ -4,7 +4,7 @@ I'm a self-taught passionate FrontEnd developer from Saint Petersburg 🇷🇺
 
 - 💼 FrontEnd Engineer at Sber (ex Sberbank)
 
-- 📈 Resolve **300+** problems on [Leetcode](https://leetcode.com/adastraperaspera0264)
+- 📈 Resolve **300+** problems and **5+** contests on [Leetcode](https://leetcode.com/adastraperaspera0264)
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
