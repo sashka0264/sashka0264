@@ -23,10 +23,10 @@ I'm a self-taught passionate FrontEnd developer from Saint Petersburg 🇷🇺
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/sashka0264/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sashka0264&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/sashka0264/sashka0264.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sashka0264&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
@@ -34,8 +34,8 @@ I'm a self-taught passionate FrontEnd developer from Saint Petersburg 🇷🇺
 <br />
 
 <a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/sashka0264/sashka0264/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/sashka0264/sashka0264/master/assets/codesandbox.svg" />
 </a>
