@@ -26,7 +26,7 @@ I'm [sashka0264](https://github.com/sashka0264), a developer who likes delicious
 
 #### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashka0264&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashka0264&layout=compact&theme=radical)
 
