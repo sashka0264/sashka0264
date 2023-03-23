@@ -2,7 +2,7 @@ I'm a self-taught passionate FrontEnd developer from Saint Petersburg 🇷🇺
 
 **About me**
 
-- 💼 FrontEnd Engineer at Sberbank
+- 💼 FrontEnd Engineer at Sber (ex Sberbank)
 
 - 📈 Resolve **300+** problems on Leetcode
 
